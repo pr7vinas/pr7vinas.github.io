@@ -1,0 +1,41 @@
+<div class="container ">
+
+    <div id="accordion">
+
+        <h2 class="main">Employment History</h2>
+
+        {{#jobs}}
+            <div class="card mb-4 box-shadow">
+                <div class="card-header">
+                    <img height="20px" src="{{country-img}}"/>
+                    <label style="color: darkseagreen; padding: 5px">{{from}} - {{to}}</label>
+                    <label style="color: #596993; padding: 5px"> / {{title}} / </label>
+                    <label style="padding: 5px">
+                        <a target="_blank" style="color: darkseagreen;" href="{{link}}">
+                            {{allocated-at}}
+                        </a>
+                    </label>
+                    <div style="color:darkgray; font-size: 0.8em">
+                        {{#techs}}{{.}}{{/techs}}
+                    </div>
+                </div>
+                <div class="card-body">
+                    <ul>
+                        {{#achievements}}
+                            <li>
+                                {{{description}}}
+
+                                <small>
+                                    {{#techs}}{{.}}{{/techs}}
+                                </small>
+                            </li>
+                        {{/achievements}}
+                    </ul>
+                </div>
+            </div>
+        {{/jobs}}
+
+
+    </div>
+
+</div>

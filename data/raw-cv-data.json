@@ -1,0 +1,529 @@
+{
+  "header": {
+    "title": "Vinicius Alvarenga's CV",
+    "css": "/assets/css/style.css"
+  },
+  "intro": {
+    "photo": {
+      "src": "/assets/img/vini.jpg",
+      "alt": "vini"
+    },
+    "name": "Vinicius Alvarenga",
+    "personal-message": "Nine years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions"
+  },
+  "details": {
+    "last-project": "Delivered a successful project at Valtech for the Department of Work and Pensions - Jobseeker's Allowance ",
+    "social-accounts": {
+      "git": {
+        "address": "github.com/pr7vinas",
+        "link": "https://github.com/pr7vinas"
+      },
+      "skype": {
+        "address": "pr7vinas@gmail.com",
+        "link": "mailto:pr7vinas@gmail.com"
+      }
+    },
+    "notice-period": "1 week"
+  },
+  "jobs": [
+    {
+      "company": "Valtech",
+      "from": "Sep 2018",
+      "to": "Present",
+      "title": "Software Consultant Contractor",
+      "link": "http://valtech.com",
+      "allocated-at": "Valtech - Department of Work and Pensions - Jobseeker's Allowance",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " {{map.techs.java}}",
+        " - {{map.techs.spring-framework}}",
+        " - {{map.techs.spring-security}}",
+        " - {{map.techs.spring-boot}}",
+        " - {{map.techs.spring-di}}",
+        " - {{map.techs.spring-data}}",
+        " - {{map.techs.spring-cache}}",
+        " - {{map.techs.spring-test}}",
+        " - {{map.techs.hibernate}}",
+        " - {{map.techs.junit}}",
+        " - {{map.techs.mockito}}",
+        " - {{map.techs.hamcrest}}",
+        " - {{map.techs.wiremock}}",
+        " - {{map.techs.jsr}}",
+        " - {{map.techs.redis}}",
+        " - {{map.techs.thymeleaf}}",
+        " - {{map.techs.kms}}",
+        " - {{map.techs.postgres10}}",
+        " - {{map.techs.docker}}",
+        " - {{map.techs.git}}",
+        " - {{map.techs.jenkins}}",
+        " - {{map.techs.nexus}}",
+        " - {{map.techs.findbugs}}",
+        " - {{map.techs.checkstyle}}",
+        " - {{map.techs.sonar}}"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered a public data gathering system for the Department of Work and Pensions",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.jsr}}",
+            " - {{map.techs.redis}}",
+            " - {{map.techs.thymeleaf}}",
+            " - {{map.techs.docker}}"
+          ]
+        },
+        {
+          "description": "Engineered a private agent dashboard for the Department of Work and Pensions",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.jsr}}",
+            " - {{map.techs.redis}}",
+            " - {{map.techs.thymeleaf}}",
+            " - {{map.techs.docker}}"
+          ]
+        },
+        {
+          "description": "Engineered a set of micro-services as part of the main solution, their responsibility was mainly to persist data for the Department of Work and Pensions or integrate with other internal services",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.spring-security}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.jsr}}",
+            " - {{map.techs.kms}}",
+            " - {{map.techs.redis}}",
+            " - {{map.techs.postgres}}",
+            " - {{map.techs.docker}}"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and testers",
+          "techs": []
+        }
+      ]
+    },
+    {
+      "company": "Booking.com",
+      "from": "Jul 2017",
+      "to": "Sep 2018",
+      "title": "Backend Software Engineer",
+      "link": "http://rideways.com",
+      "allocated-at": "Booking.com Rides",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " {{map.techs.java}}",
+        " - {{map.techs.akka}}",
+        " - {{map.techs.spring-framework}}",
+        " - {{map.techs.spring-security}}",
+        " - {{map.techs.spring-boot}}",
+        " - {{map.techs.spring-di}}",
+        " - {{map.techs.spring-data}}",
+        " - {{map.techs.spring-cache}}",
+        " - {{map.techs.spring-test}}",
+        " - {{map.techs.hibernate}}",
+        " - {{map.techs.camel}}",
+        " - Micro-Services",
+        " - {{map.techs.gradle}}",
+        " - {{map.techs.aspectj}}",
+        " - {{map.techs.mockito}}",
+        " - {{map.techs.hamcrest}}",
+        " - {{map.techs.spock}}",
+        " - {{map.techs.sqlserver}}",
+        " - {{map.techs.aurora}}",
+        " - {{map.techs.mariadb}}",
+        " - {{map.techs.grafana}}",
+        " - {{map.techs.hystrix}}",
+        " - {{map.techs.docker}}",
+        " - {{map.techs.git}}",
+        " - {{map.techs.bamboo}}",
+        " - {{map.techs.nexus}}",
+        " - {{map.techs.findbugs}}",
+        " - {{map.techs.sonar}}"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered the ground transport MVP which was bought by <a target=\"_blank\" href=\"http://www.booking.com\">Booking.com </a>",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.camel}}",
+            " - {{map.techs.spock}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.docker}}"
+          ]
+        },
+        {
+          "description": "Engineered a new Payment-API",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.spock}}"
+          ]
+        },
+        {
+          "description": "Coached junior developers",
+          "techs": [
+          ]
+        },
+        {
+          "description": "Engineered the split of the core monolith system into micro-services",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.gradle}}",
+            " - {{map.techs.sqlserver}}"
+          ]
+        },
+        {
+          "description": "Engineered the build and deployment pipeline for new micro-services",
+          "techs": [
+            " - AWS Services",
+            " - {{map.techs.bamboo}}"
+          ]
+        },
+        {
+          "description": "Engineered solutions for the performance problems that existed in the core platform",
+          "techs": [
+            " - {{map.techs.grafana}}",
+            " - {{map.techs.hystrix}}",
+            " - Refactoring"
+          ]
+        },
+        {
+          "description": "Introduced and pushed for best engineering practices",
+          "techs": [
+            " - {{map.techs.nexus}}",
+            " - Design Patterns",
+            " - Engineering-Channel"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Impresa",
+      "from": "Nov 2013",
+      "to": "Jul 2017",
+      "title": "Full-stack Developer",
+      "link": "http://www.impresa.pt/investor-relations",
+      "allocated-at": "Impresa Group",
+      "country-img": "/assets/img/pt.png",
+      "techs": [
+        " {{map.techs.java}}",
+        " - {{map.techs.spring-di}}",
+        " - {{map.techs.grpc}}",
+        " - {{map.techs.jersey}}",
+        " - {{map.techs.postgres9}}",
+        " - {{map.techs.sqlserver}}",
+        " - {{map.techs.soap}}",
+        " - {{map.techs.rest}}",
+        " - {{map.techs.php}}",
+        " - {{map.techs.js}}",
+        " - {{map.techs.vaadin}}",
+        " - Micro-Services"
+      ],
+      "achievements": [
+        {
+          "description": "Led and developed an ecommerce platform",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.php}}",
+            " - {{map.techs.js}}",
+            " - {{map.techs.spring-di}}",
+            " - {{map.techs.postgres9}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.rest}}",
+            " - Micro-Services"
+          ]
+        },
+        {
+          "description": "Led and developed a payment gateway system",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.js}}",
+            " - {{map.techs.spring-di}}",
+            " - {{map.techs.postgres9}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.rest}}",
+            " - Micro-Services"
+          ]
+        },
+        {
+          "description": "Coached junior developers for 6 months",
+          "techs": [
+          ]
+        },
+        {
+          "description": "Developed REST, SOAP and RPC APIs throughout all layers of the group’s core platform",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.spring-di}}",
+            " - {{map.techs.grpc}}",
+            " - {{map.techs.thrift}}",
+            " - {{map.techs.jersey}}",
+            " - {{map.techs.postgres9}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.soap}}",
+            " - {{map.techs.rest}}",
+            " - {{map.techs.php}}",
+            " - {{map.techs.silex}}"
+          ]
+        },
+        {
+          "description": "Developed a set of backend micro-services",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.grpc}}",
+            " - {{map.techs.postgres9}}"
+          ]
+        },
+        {
+          "description": "Developed several news websites, examples: <a href=\"http://sicnoticias.sapo.pt\" target=\"_blank\">sicnoticias.pt</a>, <a href=\"http://lojaimpresa.pt\" target=\"_blank\">lojaimpresa.pt</a>",
+          "techs": [
+            " - {{map.techs.php}}",
+            " - {{map.techs.silex}}"
+          ]
+        },
+        {
+          "description": "Developed a Single-Sign-On system",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.js}}",
+            " - JS AMD Modules"
+          ]
+        },
+        {
+          "description": "Developed a personal profile site for the customers of the group",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.js}}"
+          ]
+        },
+        {
+          "description": "Discontinued a LegacyCMS; Migrated the database and filesystem",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.mysql}}",
+            " - {{map.techs.postgres9}}"
+          ]
+        },
+        {
+          "description": "Developed a platform for editorial news production",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.vaadin}}"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Affinity",
+      "from": "May 2013",
+      "to": "Nov 2013",
+      "title": "Software Contractor",
+      "link": "http://affinity.pt/en/",
+      "allocated-at": "Affinity Portugal",
+      "country-img": "/assets/img/pt.png",
+      "techs": [
+        " {{map.techs.java}}",
+        " - {{map.techs.jersey}}",
+        " - {{map.techs.liferay}}",
+        " - {{map.techs.sqlserver}}",
+        " - {{map.techs.soap}}",
+        " - {{map.techs.js}}"
+      ],
+      "achievements": [
+        {
+          "description": "Collaborated in the architecture and development of an e-commerce platform",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.liferay}}",
+            " - {{map.techs.js}}"
+          ]
+        },
+        {
+          "description": "Developed the frontend and backend, integrating with external systems via webservices",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.jersey}}",
+            " - {{map.techs.sqlserver}}",
+            " - {{map.techs.soap}}"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "LNCC-HPC",
+      "from": "Jan 2010",
+      "to": "Jan 2013",
+      "title": "Research Scientist",
+      "link": "http://comcidis.lncc.br/",
+      "allocated-at": "Scientific Computing Laboratory",
+      "country-img": "/assets/img/br.png",
+      "techs": [
+        " {{map.techs.py}}",
+        " - {{map.techs.js}}",
+        " - {{map.techs.sqlite}}",
+        " - {{map.techs.php}}"
+      ],
+      "achievements": [
+        {
+          "description": "Developed an Intelligent Agents Software for monitoring High Performance Computing Clusters",
+          "techs": [
+            " - {{map.techs.py}}"
+          ]
+        },
+        {
+          "description": "Developed a Moving Average algorithm for data analysis",
+          "techs": [
+            " - {{map.techs.py}}"
+          ]
+        },
+        {
+          "description": "Developed a data visualization dashboard, presenting the HPC resource usage",
+          "techs": [
+            " - {{map.techs.php}}",
+            " - {{map.techs.js}}",
+            " - {{map.techs.sqlite}}"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "LNCC-BI",
+      "from": "Jan 2010",
+      "to": "May2012",
+      "title": "Software Developer",
+      "link": "http://comcidis.lncc.br/",
+      "allocated-at": "Scientific Computing Laboratory",
+      "country-img": "/assets/img/br.png",
+      "techs": [
+        " {{map.techs.java}}",
+        " - {{map.techs.pentaho}}",
+        " - {{map.techs.gwt}}",
+        " - {{map.techs.postgres8}}"
+      ],
+      "achievements": [
+        {
+          "description": "Developed a data warehouse to consolidate town hall administrative information",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.pentaho}}",
+            " - {{map.techs.postgres8}}"
+          ]
+        },
+        {
+          "description": "Developed an Extract-Transform-Load process",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.pentaho}}"
+          ]
+        },
+        {
+          "description": "Developed a data analysis and reporting solution",
+          "techs": [
+            " - {{map.techs.java}}",
+            " - {{map.techs.gwt}}"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "BSE Technology of Information and Communication",
+      "completion": "Completed on May 2012 with a final score of 8.3 out of 10."
+    }
+  ],
+  "map": {
+    "techs": {
+      "pentaho": "Pentaho",
+      "gwt": "GWT",
+      "liferay": "Liferay",
+      "vaadin": "Vaadin",
+      "silex": "Silex",
+      "grpc": "GRPC",
+      "thrift": "Apache-Thrift",
+      "soap": "SOAP",
+      "rest": "REST",
+      "hystrix": "hystrix",
+      "grafana": "Grafana",
+      "thymeleaf": "Thymeleaf",
+      "findbugs": "Google Findbugs",
+      "checkstyle": "Apache Checkstyle",
+      "sonar": "Sonar",
+      "jsr": "JSR303",
+      "java": "Java 8",
+      "php": "Php 7",
+      "js": "JavaScript",
+      "py": "Python",
+      "sql": "SQL",
+      "css": "CSS 3",
+      "html": "HTML 5",
+      "akka": "AKKA",
+      "spring-framework": "Spring-Framework",
+      "spring-security": "Spring-Security",
+      "spring-boot": "Spring-Boot",
+      "spring-di": "Spring-DI",
+      "spring-data": "Spring-Data",
+      "spring-cache": "Spring-Cache",
+      "spring-test": "Spring-Test",
+      "hibernate": "Hibernate",
+      "jersey": "Jersey",
+      "junit": "Junit",
+      "aspectj": "AspectJ",
+      "camel": "Apache Camel",
+      "dropwizard": "Dropwizard",
+      "mockito": "Mockito",
+      "hamcrest": "Hamcrest",
+      "wiremock": "Wiremock",
+      "spock": "Spock",
+      "git": "GIT",
+      "maven": "Maven",
+      "gradle": "Gradle",
+      "nexus": "Nexus",
+      "composer": "Composer",
+      "npm": "NPM",
+      "bower": "Bower",
+      "grunt": "Grunt",
+      "yarn": "Yarn",
+      "tomcat": "Tomcat",
+      "grizzly": "Grizzly",
+      "netty": "Netty",
+      "jetty": "Jetty",
+      "postgres": "PostgreSQL 10",
+      "postgres8": "PostgreSQL 8",
+      "postgres9": "PostgreSQL 9",
+      "postgres10": "PostgreSQL 10",
+      "sqlserver": "SQL Server",
+      "mysql": "MySql",
+      "sqlite": "SQLite",
+      "elastic-search": "Elastic-Search",
+      "aurora": "Aurora",
+      "mariadb": "MariaDB",
+      "redis": "Redis",
+      "bamboo": "Bamboo",
+      "jenkins": "Jenkins",
+      "jira": "Jira",
+      "consul": "Consul",
+      "ec2": "EC2",
+      "ecs": "ECS",
+      "lambda-functions": "AWS lambda functions",
+      "metrics": "AWS Metrics",
+      "cloudwatch": "AWS Cloudwatch",
+      "kms": "AWS KMS",
+      "docker": "Docker",
+      "pt": "Portuguese native",
+      "en": "English C1"
+    }
+  }
+}

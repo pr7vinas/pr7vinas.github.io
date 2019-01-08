@@ -1,0 +1,529 @@
+{
+  "header": {
+    "title": "Vinicius Alvarenga's CV",
+    "css": "/assets/css/style.css"
+  },
+  "intro": {
+    "photo": {
+      "src": "/assets/img/vini.jpg",
+      "alt": "vini"
+    },
+    "name": "Vinicius Alvarenga",
+    "personal-message": "Nine years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions"
+  },
+  "details": {
+    "last-project": "Delivered a successful project at Valtech for the Department of Work and Pensions - Jobseeker's Allowance ",
+    "social-accounts": {
+      "git": {
+        "address": "github.com/pr7vinas",
+        "link": "https://github.com/pr7vinas"
+      },
+      "skype": {
+        "address": "pr7vinas@gmail.com",
+        "link": "mailto:pr7vinas@gmail.com"
+      }
+    },
+    "notice-period": "1 week"
+  },
+  "jobs": [
+    {
+      "company": "Valtech",
+      "from": "Sep 2018",
+      "to": "Present",
+      "title": "Software Consultant Contractor",
+      "link": "http://valtech.com",
+      "allocated-at": "Valtech - Department of Work and Pensions - Jobseeker's Allowance",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " Java 8",
+        " - Spring-Framework",
+        " - Spring-Security",
+        " - Spring-Boot",
+        " - Spring-DI",
+        " - Spring-Data",
+        " - Spring-Cache",
+        " - Spring-Test",
+        " - Hibernate",
+        " - Junit",
+        " - Mockito",
+        " - Hamcrest",
+        " - Wiremock",
+        " - JSR303",
+        " - Redis",
+        " - Thymeleaf",
+        " - AWS KMS",
+        " - PostgreSQL 10",
+        " - Docker",
+        " - GIT",
+        " - Jenkins",
+        " - Nexus",
+        " - Google Findbugs",
+        " - Apache Checkstyle",
+        " - Sonar"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered a public data gathering system for the Department of Work and Pensions",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Mockito",
+            " - JSR303",
+            " - Redis",
+            " - Thymeleaf",
+            " - Docker"
+          ]
+        },
+        {
+          "description": "Engineered a private agent dashboard for the Department of Work and Pensions",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Mockito",
+            " - JSR303",
+            " - Redis",
+            " - Thymeleaf",
+            " - Docker"
+          ]
+        },
+        {
+          "description": "Engineered a set of micro-services as part of the main solution, their responsibility was mainly to persist data for the Department of Work and Pensions or integrate with other internal services",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Spring-Security",
+            " - Hibernate",
+            " - Mockito",
+            " - JSR303",
+            " - AWS KMS",
+            " - Redis",
+            " - PostgreSQL 10",
+            " - Docker"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and testers",
+          "techs": []
+        }
+      ]
+    },
+    {
+      "company": "Booking.com",
+      "from": "Jul 2017",
+      "to": "Sep 2018",
+      "title": "Backend Software Engineer",
+      "link": "http://rideways.com",
+      "allocated-at": "Booking.com Rides",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " Java 8",
+        " - AKKA",
+        " - Spring-Framework",
+        " - Spring-Security",
+        " - Spring-Boot",
+        " - Spring-DI",
+        " - Spring-Data",
+        " - Spring-Cache",
+        " - Spring-Test",
+        " - Hibernate",
+        " - Apache Camel",
+        " - Micro-Services",
+        " - Gradle",
+        " - AspectJ",
+        " - Mockito",
+        " - Hamcrest",
+        " - Spock",
+        " - SQL Server",
+        " - Aurora",
+        " - MariaDB",
+        " - Grafana",
+        " - hystrix",
+        " - Docker",
+        " - GIT",
+        " - Bamboo",
+        " - Nexus",
+        " - Google Findbugs",
+        " - Sonar"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered the ground transport MVP which was bought by <a target=\"_blank\" href=\"http://www.booking.com\">Booking.com </a>",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Apache Camel",
+            " - Spock",
+            " - SQL Server",
+            " - Docker"
+          ]
+        },
+        {
+          "description": "Engineered a new Payment-API",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - SQL Server",
+            " - Spock"
+          ]
+        },
+        {
+          "description": "Coached junior developers",
+          "techs": [
+          ]
+        },
+        {
+          "description": "Engineered the split of the core monolith system into micro-services",
+          "techs": [
+            " - Java 8",
+            " - Spring-Framework",
+            " - Gradle",
+            " - SQL Server"
+          ]
+        },
+        {
+          "description": "Engineered the build and deployment pipeline for new micro-services",
+          "techs": [
+            " - AWS Services",
+            " - Bamboo"
+          ]
+        },
+        {
+          "description": "Engineered solutions for the performance problems that existed in the core platform",
+          "techs": [
+            " - Grafana",
+            " - hystrix",
+            " - Refactoring"
+          ]
+        },
+        {
+          "description": "Introduced and pushed for best engineering practices",
+          "techs": [
+            " - Nexus",
+            " - Design Patterns",
+            " - Engineering-Channel"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Impresa",
+      "from": "Nov 2013",
+      "to": "Jul 2017",
+      "title": "Full-stack Developer",
+      "link": "http://www.impresa.pt/investor-relations",
+      "allocated-at": "Impresa Group",
+      "country-img": "/assets/img/pt.png",
+      "techs": [
+        " Java 8",
+        " - Spring-DI",
+        " - GRPC",
+        " - Jersey",
+        " - PostgreSQL 9",
+        " - SQL Server",
+        " - SOAP",
+        " - REST",
+        " - Php 7",
+        " - JavaScript",
+        " - Vaadin",
+        " - Micro-Services"
+      ],
+      "achievements": [
+        {
+          "description": "Led and developed an ecommerce platform",
+          "techs": [
+            " - Java 8",
+            " - Php 7",
+            " - JavaScript",
+            " - Spring-DI",
+            " - PostgreSQL 9",
+            " - SQL Server",
+            " - REST",
+            " - Micro-Services"
+          ]
+        },
+        {
+          "description": "Led and developed a payment gateway system",
+          "techs": [
+            " - Java 8",
+            " - JavaScript",
+            " - Spring-DI",
+            " - PostgreSQL 9",
+            " - SQL Server",
+            " - REST",
+            " - Micro-Services"
+          ]
+        },
+        {
+          "description": "Coached junior developers for 6 months",
+          "techs": [
+          ]
+        },
+        {
+          "description": "Developed REST, SOAP and RPC APIs throughout all layers of the group’s core platform",
+          "techs": [
+            " - Java 8",
+            " - Spring-DI",
+            " - GRPC",
+            " - Apache-Thrift",
+            " - Jersey",
+            " - PostgreSQL 9",
+            " - SQL Server",
+            " - SOAP",
+            " - REST",
+            " - Php 7",
+            " - Silex"
+          ]
+        },
+        {
+          "description": "Developed a set of backend micro-services",
+          "techs": [
+            " - Java 8",
+            " - GRPC",
+            " - PostgreSQL 9"
+          ]
+        },
+        {
+          "description": "Developed several news websites, examples: <a href=\"http://sicnoticias.sapo.pt\" target=\"_blank\">sicnoticias.pt</a>, <a href=\"http://lojaimpresa.pt\" target=\"_blank\">lojaimpresa.pt</a>",
+          "techs": [
+            " - Php 7",
+            " - Silex"
+          ]
+        },
+        {
+          "description": "Developed a Single-Sign-On system",
+          "techs": [
+            " - Java 8",
+            " - JavaScript",
+            " - JS AMD Modules"
+          ]
+        },
+        {
+          "description": "Developed a personal profile site for the customers of the group",
+          "techs": [
+            " - Java 8",
+            " - JavaScript"
+          ]
+        },
+        {
+          "description": "Discontinued a LegacyCMS; Migrated the database and filesystem",
+          "techs": [
+            " - Java 8",
+            " - MySql",
+            " - PostgreSQL 9"
+          ]
+        },
+        {
+          "description": "Developed a platform for editorial news production",
+          "techs": [
+            " - Java 8",
+            " - Vaadin"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Affinity",
+      "from": "May 2013",
+      "to": "Nov 2013",
+      "title": "Software Contractor",
+      "link": "http://affinity.pt/en/",
+      "allocated-at": "Affinity Portugal",
+      "country-img": "/assets/img/pt.png",
+      "techs": [
+        " Java 8",
+        " - Jersey",
+        " - Liferay",
+        " - SQL Server",
+        " - SOAP",
+        " - JavaScript"
+      ],
+      "achievements": [
+        {
+          "description": "Collaborated in the architecture and development of an e-commerce platform",
+          "techs": [
+            " - Java 8",
+            " - Liferay",
+            " - JavaScript"
+          ]
+        },
+        {
+          "description": "Developed the frontend and backend, integrating with external systems via webservices",
+          "techs": [
+            " - Java 8",
+            " - Jersey",
+            " - SQL Server",
+            " - SOAP"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "LNCC-HPC",
+      "from": "Jan 2010",
+      "to": "Jan 2013",
+      "title": "Research Scientist",
+      "link": "http://comcidis.lncc.br/",
+      "allocated-at": "Scientific Computing Laboratory",
+      "country-img": "/assets/img/br.png",
+      "techs": [
+        " Python",
+        " - JavaScript",
+        " - SQLite",
+        " - Php 7"
+      ],
+      "achievements": [
+        {
+          "description": "Developed an Intelligent Agents Software for monitoring High Performance Computing Clusters",
+          "techs": [
+            " - Python"
+          ]
+        },
+        {
+          "description": "Developed a Moving Average algorithm for data analysis",
+          "techs": [
+            " - Python"
+          ]
+        },
+        {
+          "description": "Developed a data visualization dashboard, presenting the HPC resource usage",
+          "techs": [
+            " - Php 7",
+            " - JavaScript",
+            " - SQLite"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "LNCC-BI",
+      "from": "Jan 2010",
+      "to": "May2012",
+      "title": "Software Developer",
+      "link": "http://comcidis.lncc.br/",
+      "allocated-at": "Scientific Computing Laboratory",
+      "country-img": "/assets/img/br.png",
+      "techs": [
+        " Java 8",
+        " - Pentaho",
+        " - GWT",
+        " - PostgreSQL 8"
+      ],
+      "achievements": [
+        {
+          "description": "Developed a data warehouse to consolidate town hall administrative information",
+          "techs": [
+            " - Java 8",
+            " - Pentaho",
+            " - PostgreSQL 8"
+          ]
+        },
+        {
+          "description": "Developed an Extract-Transform-Load process",
+          "techs": [
+            " - Java 8",
+            " - Pentaho"
+          ]
+        },
+        {
+          "description": "Developed a data analysis and reporting solution",
+          "techs": [
+            " - Java 8",
+            " - GWT"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "BSE Technology of Information and Communication",
+      "completion": "Completed on May 2012 with a final score of 8.3 out of 10."
+    }
+  ],
+  "map": {
+    "techs": {
+      "pentaho": "Pentaho",
+      "gwt": "GWT",
+      "liferay": "Liferay",
+      "vaadin": "Vaadin",
+      "silex": "Silex",
+      "grpc": "GRPC",
+      "thrift": "Apache-Thrift",
+      "soap": "SOAP",
+      "rest": "REST",
+      "hystrix": "hystrix",
+      "grafana": "Grafana",
+      "thymeleaf": "Thymeleaf",
+      "findbugs": "Google Findbugs",
+      "checkstyle": "Apache Checkstyle",
+      "sonar": "Sonar",
+      "jsr": "JSR303",
+      "java": "Java 8",
+      "php": "Php 7",
+      "js": "JavaScript",
+      "py": "Python",
+      "sql": "SQL",
+      "css": "CSS 3",
+      "html": "HTML 5",
+      "akka": "AKKA",
+      "spring-framework": "Spring-Framework",
+      "spring-security": "Spring-Security",
+      "spring-boot": "Spring-Boot",
+      "spring-di": "Spring-DI",
+      "spring-data": "Spring-Data",
+      "spring-cache": "Spring-Cache",
+      "spring-test": "Spring-Test",
+      "hibernate": "Hibernate",
+      "jersey": "Jersey",
+      "junit": "Junit",
+      "aspectj": "AspectJ",
+      "camel": "Apache Camel",
+      "dropwizard": "Dropwizard",
+      "mockito": "Mockito",
+      "hamcrest": "Hamcrest",
+      "wiremock": "Wiremock",
+      "spock": "Spock",
+      "git": "GIT",
+      "maven": "Maven",
+      "gradle": "Gradle",
+      "nexus": "Nexus",
+      "composer": "Composer",
+      "npm": "NPM",
+      "bower": "Bower",
+      "grunt": "Grunt",
+      "yarn": "Yarn",
+      "tomcat": "Tomcat",
+      "grizzly": "Grizzly",
+      "netty": "Netty",
+      "jetty": "Jetty",
+      "postgres": "PostgreSQL 10",
+      "postgres8": "PostgreSQL 8",
+      "postgres9": "PostgreSQL 9",
+      "postgres10": "PostgreSQL 10",
+      "sqlserver": "SQL Server",
+      "mysql": "MySql",
+      "sqlite": "SQLite",
+      "elastic-search": "Elastic-Search",
+      "aurora": "Aurora",
+      "mariadb": "MariaDB",
+      "redis": "Redis",
+      "bamboo": "Bamboo",
+      "jenkins": "Jenkins",
+      "jira": "Jira",
+      "consul": "Consul",
+      "ec2": "EC2",
+      "ecs": "ECS",
+      "lambda-functions": "AWS lambda functions",
+      "metrics": "AWS Metrics",
+      "cloudwatch": "AWS Cloudwatch",
+      "kms": "AWS KMS",
+      "docker": "Docker",
+      "pt": "Portuguese native",
+      "en": "English C1"
+    }
+  }
+}
