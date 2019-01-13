@@ -446,6 +446,11 @@
   ],
   "map": {
     "techs": {
+      "scrum": "Scrum",
+      "tdd": "Test Drive Development",
+      "xp": "Extreme Programming",
+      "pair": "Pair Programming",
+      "automated-test": "Automated Testing",
       "pentaho": "Pentaho",
       "gwt": "GWT",
       "liferay": "Liferay",
