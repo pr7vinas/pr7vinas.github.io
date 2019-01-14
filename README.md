@@ -1,8 +1,8 @@
 # pr7vinas.github.io
 
-This is project is to help me updating my cv.
+This project is to help me updating my cv.
 
-As I'm not very good at using Microsoft World, Open Office or similar, I thought it would be win win situation if I had my CV online, well versioned and easier to update.
+As I'm not very good using Microsoft World, Open Office or similar, I thought it would be a win win situation if I had my CV online, well versioned and easier to update.
 
 *Feel free to clone, fork, hire me or completely ignore everything.*
 
