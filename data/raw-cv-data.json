@@ -14,6 +14,10 @@
   "details": {
     "last-project": "Delivered a successful project at Valtech for the Department of Work and Pensions - Jobseeker's Allowance ",
     "social-accounts": {
+      "email" : {
+        "address": "vini@codebest.io",
+        "link" : "mailto:vini@codebest.io"
+      },
       "git": {
         "address": "github.com/pr7vinas",
         "link": "https://github.com/pr7vinas"
