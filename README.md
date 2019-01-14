@@ -9,7 +9,7 @@ As I'm not very good at using Microsoft World, Open Office or similar, I thought
 
 # Usage
 
-`/templates/*`  is where you can find all the mustashe templates used to build the final index.html file.
+`/templates/*`  is where you can find all the mustache templates used to build the final index.html file.
 
 `/data/raw-cv-data.json`  is where you define the content you want to print later on the templates.
 
