@@ -9,7 +9,7 @@
       "alt": "vini"
     },
     "name": "Vinicius Alvarenga",
-    "personal-message": "Ten years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions for private and public sector"
+    "personal-message": "Ten years leading and developing E-Commerce Systems,ok, já  Payment Systems, CMS and BI Solutions for private and public sector"
   },
   "details": {
     "last-project": "Delivered a successful project in the Health Transformation Programme for the Department of Work and Pensions",
@@ -315,6 +315,7 @@
       "techs": [
         " {{map.techs.java}}",
         " - {{map.techs.akka}}",
+        " - {{map.techs.scala}}",
         " - {{map.techs.spring-framework}}",
         " - {{map.techs.spring-security}}",
         " - {{map.techs.spring-boot}}",
@@ -641,6 +642,7 @@
   ],
   "map": {
     "techs": {
+      "scala": "Scala",
       "scrum": "Scrum",
       "tdd": "Test Drive Development",
       "xp": "Extreme Programming",
