@@ -5,18 +5,18 @@
   },
   "intro": {
     "photo": {
-      "src": "/assets/img/vini.jpg",
+      "src": "/assets/img/recent-pic-of-vini.jpeg",
       "alt": "vini"
     },
     "name": "Vinicius Alvarenga",
-    "personal-message": "Nine years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions"
+    "personal-message": "Ten years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions for private and public sector"
   },
   "details": {
     "last-project": "Delivered a successful project at Valtech for the Department of Work and Pensions - Jobseeker's Allowance ",
     "social-accounts": {
-      "email" : {
+      "email": {
         "address": "vini@codebest.io",
-        "link" : "mailto:vini@codebest.io"
+        "link": "mailto:vini@codebest.io"
       },
       "git": {
         "address": "github.com/pr7vinas",
@@ -32,11 +32,201 @@
   },
   "jobs": [
     {
+      "company": "Department of Work and Pensions",
+      "from": "Sep 2019",
+      "to": "Current",
+      "title": "Software Consultant Contractor",
+      "link": "https://dwpdigital.blog.gov.uk/category/health-transformation/",
+      "allocated-at": "Department of Work and Pensions - Health Transformation Programme",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " {{map.techs.java13}}",
+        " - {{map.techs.spring-framework}}",
+        " - {{map.techs.spring-security}}",
+        " - {{map.techs.spring-boot}}",
+        " - {{map.techs.spring-di}}",
+        " - {{map.techs.spring-data}}",
+        " - {{map.techs.spring-cache}}",
+        " - {{map.techs.spring-test}}",
+        " - {{map.techs.hibernate}}",
+        " - {{map.techs.junit}}",
+        " - {{map.techs.mockito}}",
+        " - {{map.techs.hamcrest}}",
+        " - {{map.techs.wiremock}}",
+        " - {{map.techs.jsr}}",
+        " - {{map.techs.kms}}",
+        " - {{map.techs.docker}}",
+        " - {{map.techs.git}}",
+        " - {{map.techs.jenkins}}",
+        " - {{map.techs.nexus}}",
+        " - {{map.techs.findbugs}}",
+        " - {{map.techs.checkstyle}}",
+        " - {{map.techs.sonar}}"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered an supplier quality audit system for the Department of Work and Pensions",
+          "techs": [
+            " {{map.techs.java13}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.jsr}}",
+            " - {{map.techs.docker}}",
+            " - {{map.techs.mongo}}",
+            " - {{map.techs.kms}}",
+            " - {{map.techs.sns}}",
+            " - {{map.techs.sqs}}",
+            " - {{map.techs.ecs}}",
+            " - {{map.techs.cucumber}}",
+            " - {{map.techs.test-containers}}"
+          ]
+        },
+        {
+          "description": "Engineered a rules engine for supplier quality audit",
+          "techs": [
+            " {{map.techs.java13}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.jsr}}",
+            " - {{map.techs.docker}}",
+            " - {{map.techs.mongo}}",
+            " - {{map.techs.kms}}",
+            " - {{map.techs.sns}}",
+            " - {{map.techs.sqs}}",
+            " - {{map.techs.ecs}}",
+            " - {{map.techs.cucumber}}",
+            " - {{map.techs.test-containers}}"
+          ]
+        },
+        {
+          "description": "Engineered an ETL solution for health care suppliers and DWP",
+          "techs": [
+            " {{map.techs.java13}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.spock}}",
+            " - {{map.techs.swagger}}",
+            " - {{map.techs.docker}}",
+            " - {{map.techs.postgres}}",
+            " - {{map.techs.kms}}",
+            " - {{map.techs.sns}}",
+            " - {{map.techs.sqs}}",
+            " - {{map.techs.ecs}}",
+            " - {{map.techs.test-containers}}"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and test engineers",
+          "techs": []
+        },
+        {
+          "description": "Contributed with the Rules Engine architecture ",
+          "techs": [
+            " - Defined backend components",
+            " - Defined backend APIs",
+            " - Recognized different integration tools",
+            " - Defined testing approach",
+            " - Defined core domain models",
+            " - Defined database technology",
+            " - Defined database design scheme",
+            " - Analysed security vulnerabilities and risks",
+            " - Understood the ecosystem and its systems",
+            " - Regular reports to main stakeholders"
+          ]
+        },
+        {
+          "description": "Temporarily performed BA role during discovery phase inside the GSI framework",
+          "techs": [
+            " - Discovered main business requirements for the rules engine",
+            " - Discovered main stakeholders",
+            " - Discovered and understood existent rules on different suppliers",
+            " - Promoted regular meetings with stakeholder",
+            " - Contributed for the mapping of the \"business as usual\" flow of the audit and rules engine area",
+            " - Documented all findings in Confluence and Jira"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Department of Work and Pensions",
+      "from": "Mar 2019",
+      "to": "Sep 2019",
+      "title": "Software Consultant Contractor",
+      "link": "https://www.gov.uk/access-to-work",
+      "allocated-at": "Department of Work and Pensions - Access To Work",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        "  {{map.techs.java12}}",
+        " - {{map.techs.spring-framework}}",
+        " - {{map.techs.spring-security}}",
+        " - {{map.techs.hibernate}}",
+        " - {{map.techs.mockito}}",
+        " - {{map.techs.kms}}",
+        " - {{map.techs.mongo}}",
+        " - {{map.techs.spring-data}}",
+        " - {{map.techs.docker}}",
+        " - Positive problem solver mindset",
+        " - Communication and expectation management skills",
+        " - Architectural thinking"
+      ],
+      "achievements": [
+        {
+          "description": "Performed architect role for a Payment Gateway",
+          "techs": [
+            " - Defined backend components",
+            " - Defined backend APIs",
+            " - Assessed integration tools",
+            " - Defined testing approach",
+            " - Defined core domain models",
+            " - Defined database technology",
+            " - Defined database design scheme",
+            " - Analysed security vulnerabilities and risks",
+            " - Understood the ecosystem and its systems",
+            " - Graphically designed an architectural overview of the solution ",
+            " - Kept a log of decisions",
+            " - Regular reports to main stakeholders"
+          ]
+        },
+        {
+          "description": "Implemented an encryption mechanism to store properly encrypted data in the DB using KMS",
+          "techs": [
+            " - {{map.techs.java12}}",
+            " - {{map.techs.spring-framework}}",
+            " - {{map.techs.spring-security}}",
+            " - {{map.techs.hibernate}}",
+            " - {{map.techs.mockito}}",
+            " - {{map.techs.kms}}",
+            " - {{map.techs.mongo}}",
+            " - {{map.techs.spring-data}}",
+            " - {{map.techs.docker}}"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and test engineers",
+          "techs": []
+        },
+        {
+          "description": "Temporarily performed BA role during discovery phase inside the GSI framework",
+          "techs": [
+            " - Discovered main business requirements",
+            " - Discovered main stakeholders",
+            " - Discovered and understood financial rules for public sector",
+            " - Promoted regular meetings with stakeholder",
+            " - Mapped the \"business as usual\" flow of the payment sector",
+            " - Documented all findings in Confluence and Jira"
+          ]
+        }
+      ]
+    },
+    {
       "company": "Valtech",
       "from": "Sep 2018",
-      "to": "Present",
+      "to": "Dez 2018",
       "title": "Software Consultant Contractor",
-      "link": "http://valtech.com",
+      "link": "https://www.gov.uk/jobseekers-allowance",
       "allocated-at": "Valtech - Department of Work and Pensions - Jobseeker's Allowance",
       "country-img": "/assets/img/uk.png",
       "techs": [
@@ -472,7 +662,10 @@
       "checkstyle": "Apache Checkstyle",
       "sonar": "Sonar",
       "jsr": "JSR303",
-      "java": "Java 8",
+      "java": "JDK 8",
+      "java11": "JDK 11",
+      "java12": "JDK 12",
+      "java13": "JDK 13",
       "php": "Php 7",
       "js": "JavaScript",
       "py": "Python",
@@ -480,6 +673,7 @@
       "css": "CSS 3",
       "html": "HTML 5",
       "akka": "AKKA",
+      "mongo": "MongoDB",
       "spring-framework": "Spring-Framework",
       "spring-security": "Spring-Security",
       "spring-boot": "Spring-Boot",
@@ -531,9 +725,14 @@
       "metrics": "AWS Metrics",
       "cloudwatch": "AWS Cloudwatch",
       "kms": "AWS KMS",
+      "sns": "AWS SNS",
+      "sqs": "AWS SQS",
       "docker": "Docker",
       "pt": "Portuguese native",
-      "en": "English C1"
+      "en": "English C1",
+      "cucumber": "Cucumber",
+      "test-containers": "Test Containers",
+      "terraform": "Terraform"
     }
   }
 }

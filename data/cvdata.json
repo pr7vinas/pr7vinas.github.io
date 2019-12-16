@@ -5,18 +5,18 @@
   },
   "intro": {
     "photo": {
-      "src": "/assets/img/vini.jpg",
+      "src": "/assets/img/recent-pic-of-vini.jpeg",
       "alt": "vini"
     },
     "name": "Vinicius Alvarenga",
-    "personal-message": "Nine years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions"
+    "personal-message": "Ten years leading and developing E-Commerce Systems, Payment Systems, CMS and BI Solutions for private and public sector"
   },
   "details": {
     "last-project": "Delivered a successful project at Valtech for the Department of Work and Pensions - Jobseeker's Allowance ",
     "social-accounts": {
-      "email" : {
+      "email": {
         "address": "vini@codebest.io",
-        "link" : "mailto:vini@codebest.io"
+        "link": "mailto:vini@codebest.io"
       },
       "git": {
         "address": "github.com/pr7vinas",
@@ -32,15 +32,205 @@
   },
   "jobs": [
     {
+      "company": "Department of Work and Pensions",
+      "from": "Sep 2019",
+      "to": "Current",
+      "title": "Software Consultant Contractor",
+      "link": "https://dwpdigital.blog.gov.uk/category/health-transformation/",
+      "allocated-at": "Department of Work and Pensions - Health Transformation Programme",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        " JDK 13",
+        " - Spring-Framework",
+        " - Spring-Security",
+        " - Spring-Boot",
+        " - Spring-DI",
+        " - Spring-Data",
+        " - Spring-Cache",
+        " - Spring-Test",
+        " - Hibernate",
+        " - Junit",
+        " - Mockito",
+        " - Hamcrest",
+        " - Wiremock",
+        " - JSR303",
+        " - AWS KMS",
+        " - Docker",
+        " - GIT",
+        " - Jenkins",
+        " - Nexus",
+        " - Google Findbugs",
+        " - Apache Checkstyle",
+        " - Sonar"
+      ],
+      "achievements": [
+        {
+          "description": "Engineered an supplier quality audit system for the Department of Work and Pensions",
+          "techs": [
+            " JDK 13",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Mockito",
+            " - JSR303",
+            " - Docker",
+            " - MongoDB",
+            " - AWS KMS",
+            " - AWS SNS",
+            " - AWS SQS",
+            " - ECS",
+            " - Cucumber",
+            " - Test Containers"
+          ]
+        },
+        {
+          "description": "Engineered a rules engine for supplier quality audit",
+          "techs": [
+            " JDK 13",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Mockito",
+            " - JSR303",
+            " - Docker",
+            " - MongoDB",
+            " - AWS KMS",
+            " - AWS SNS",
+            " - AWS SQS",
+            " - ECS",
+            " - Cucumber",
+            " - Test Containers"
+          ]
+        },
+        {
+          "description": "Engineered an ETL solution for health care suppliers and DWP",
+          "techs": [
+            " JDK 13",
+            " - Spring-Framework",
+            " - Hibernate",
+            " - Mockito",
+            " - Spock",
+            " - ",
+            " - Docker",
+            " - PostgreSQL 10",
+            " - AWS KMS",
+            " - AWS SNS",
+            " - AWS SQS",
+            " - ECS",
+            " - Test Containers"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and test engineers",
+          "techs": []
+        },
+        {
+          "description": "Contributed with the Rules Engine architecture ",
+          "techs": [
+            " - Defined backend components",
+            " - Defined backend APIs",
+            " - Recognized different integration tools",
+            " - Defined testing approach",
+            " - Defined core domain models",
+            " - Defined database technology",
+            " - Defined database design scheme",
+            " - Analysed security vulnerabilities and risks",
+            " - Understood the ecosystem and its systems",
+            " - Regular reports to main stakeholders"
+          ]
+        },
+        {
+          "description": "Temporarily performed BA role during discovery phase inside the GSI framework",
+          "techs": [
+            " - Discovered main business requirements for the rules engine",
+            " - Discovered main stakeholders",
+            " - Discovered and understood existent rules on different suppliers",
+            " - Promoted regular meetings with stakeholder",
+            " - Contributed for the mapping of the \"business as usual\" flow of the audit and rules engine area",
+            " - Documented all findings in Confluence and Jira"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Department of Work and Pensions",
+      "from": "Mar 2019",
+      "to": "Sep 2019",
+      "title": "Software Consultant Contractor",
+      "link": "https://www.gov.uk/access-to-work",
+      "allocated-at": "Department of Work and Pensions - Access To Work",
+      "country-img": "/assets/img/uk.png",
+      "techs": [
+        "  JDK 12",
+        " - Spring-Framework",
+        " - Spring-Security",
+        " - Hibernate",
+        " - Mockito",
+        " - AWS KMS",
+        " - MongoDB",
+        " - Spring-Data",
+        " - Docker",
+        " - Positive problem solver mindset",
+        " - Communication and expectation management skills",
+        " - Architectural thinking"
+      ],
+      "achievements": [
+        {
+          "description": "Performed architect role for a Payment Gateway",
+          "techs": [
+            " - Defined backend components",
+            " - Defined backend APIs",
+            " - Assessed integration tools",
+            " - Defined testing approach",
+            " - Defined core domain models",
+            " - Defined database technology",
+            " - Defined database design scheme",
+            " - Analysed security vulnerabilities and risks",
+            " - Understood the ecosystem and its systems",
+            " - Graphically designed an architectural overview of the solution ",
+            " - Kept a log of decisions",
+            " - Regular reports to main stakeholders"
+          ]
+        },
+        {
+          "description": "Implemented an encryption mechanism to store properly encrypted data in the DB using KMS",
+          "techs": [
+            " - JDK 12",
+            " - Spring-Framework",
+            " - Spring-Security",
+            " - Hibernate",
+            " - Mockito",
+            " - AWS KMS",
+            " - MongoDB",
+            " - Spring-Data",
+            " - Docker"
+          ]
+        },
+        {
+          "description": "Provided help and guidance to developers and test engineers",
+          "techs": []
+        },
+        {
+          "description": "Temporarily performed BA role during discovery phase inside the GSI framework",
+          "techs": [
+            " - Discovered main business requirements",
+            " - Discovered main stakeholders",
+            " - Discovered and understood financial rules for public sector",
+            " - Promoted regular meetings with stakeholder",
+            " - Mapped the \"business as usual\" flow of the payment sector",
+            " - Documented all findings in Confluence and Jira"
+          ]
+        }
+      ]
+    },
+    {
       "company": "Valtech",
       "from": "Sep 2018",
-      "to": "Present",
+      "to": "Dez 2018",
       "title": "Software Consultant Contractor",
-      "link": "http://valtech.com",
+      "link": "https://www.gov.uk/jobseekers-allowance",
       "allocated-at": "Valtech - Department of Work and Pensions - Jobseeker's Allowance",
       "country-img": "/assets/img/uk.png",
       "techs": [
-        " Java 8",
+        " JDK 8",
         " - Spring-Framework",
         " - Spring-Security",
         " - Spring-Boot",
@@ -70,7 +260,7 @@
         {
           "description": "Engineered a public data gathering system for the Department of Work and Pensions",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Hibernate",
             " - Mockito",
@@ -83,7 +273,7 @@
         {
           "description": "Engineered a private agent dashboard for the Department of Work and Pensions",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Hibernate",
             " - Mockito",
@@ -96,7 +286,7 @@
         {
           "description": "Engineered a set of micro-services as part of the main solution, their responsibility was mainly to persist data for the Department of Work and Pensions or integrate with other internal services",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Spring-Security",
             " - Hibernate",
@@ -123,7 +313,7 @@
       "allocated-at": "Booking.com Rides",
       "country-img": "/assets/img/uk.png",
       "techs": [
-        " Java 8",
+        " JDK 8",
         " - AKKA",
         " - Spring-Framework",
         " - Spring-Security",
@@ -156,7 +346,7 @@
         {
           "description": "Engineered the ground transport MVP which was bought by <a target=\"_blank\" href=\"http://www.booking.com\">Booking.com </a>",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Hibernate",
             " - Apache Camel",
@@ -168,7 +358,7 @@
         {
           "description": "Engineered a new Payment-API",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Hibernate",
             " - SQL Server",
@@ -183,7 +373,7 @@
         {
           "description": "Engineered the split of the core monolith system into micro-services",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-Framework",
             " - Gradle",
             " - SQL Server"
@@ -223,7 +413,7 @@
       "allocated-at": "Impresa Group",
       "country-img": "/assets/img/pt.png",
       "techs": [
-        " Java 8",
+        " JDK 8",
         " - Spring-DI",
         " - GRPC",
         " - Jersey",
@@ -240,7 +430,7 @@
         {
           "description": "Led and developed an ecommerce platform",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Php 7",
             " - JavaScript",
             " - Spring-DI",
@@ -253,7 +443,7 @@
         {
           "description": "Led and developed a payment gateway system",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - JavaScript",
             " - Spring-DI",
             " - PostgreSQL 9",
@@ -270,7 +460,7 @@
         {
           "description": "Developed REST, SOAP and RPC APIs throughout all layers of the group’s core platform",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Spring-DI",
             " - GRPC",
             " - Apache-Thrift",
@@ -286,7 +476,7 @@
         {
           "description": "Developed a set of backend micro-services",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - GRPC",
             " - PostgreSQL 9"
           ]
@@ -301,7 +491,7 @@
         {
           "description": "Developed a Single-Sign-On system",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - JavaScript",
             " - JS AMD Modules"
           ]
@@ -309,14 +499,14 @@
         {
           "description": "Developed a personal profile site for the customers of the group",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - JavaScript"
           ]
         },
         {
           "description": "Discontinued a LegacyCMS; Migrated the database and filesystem",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - MySql",
             " - PostgreSQL 9"
           ]
@@ -324,7 +514,7 @@
         {
           "description": "Developed a platform for editorial news production",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Vaadin"
           ]
         }
@@ -339,7 +529,7 @@
       "allocated-at": "Affinity Portugal",
       "country-img": "/assets/img/pt.png",
       "techs": [
-        " Java 8",
+        " JDK 8",
         " - Jersey",
         " - Liferay",
         " - SQL Server",
@@ -350,7 +540,7 @@
         {
           "description": "Collaborated in the architecture and development of an e-commerce platform",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Liferay",
             " - JavaScript"
           ]
@@ -358,7 +548,7 @@
         {
           "description": "Developed the frontend and backend, integrating with external systems via webservices",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Jersey",
             " - SQL Server",
             " - SOAP"
@@ -412,7 +602,7 @@
       "allocated-at": "Scientific Computing Laboratory",
       "country-img": "/assets/img/br.png",
       "techs": [
-        " Java 8",
+        " JDK 8",
         " - Pentaho",
         " - GWT",
         " - PostgreSQL 8"
@@ -421,7 +611,7 @@
         {
           "description": "Developed a data warehouse to consolidate town hall administrative information",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Pentaho",
             " - PostgreSQL 8"
           ]
@@ -429,14 +619,14 @@
         {
           "description": "Developed an Extract-Transform-Load process",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - Pentaho"
           ]
         },
         {
           "description": "Developed a data analysis and reporting solution",
           "techs": [
-            " - Java 8",
+            " - JDK 8",
             " - GWT"
           ]
         }
@@ -472,7 +662,10 @@
       "checkstyle": "Apache Checkstyle",
       "sonar": "Sonar",
       "jsr": "JSR303",
-      "java": "Java 8",
+      "java": "JDK 8",
+      "java11": "JDK 11",
+      "java12": "JDK 12",
+      "java13": "JDK 13",
       "php": "Php 7",
       "js": "JavaScript",
       "py": "Python",
@@ -480,6 +673,7 @@
       "css": "CSS 3",
       "html": "HTML 5",
       "akka": "AKKA",
+      "mongo": "MongoDB",
       "spring-framework": "Spring-Framework",
       "spring-security": "Spring-Security",
       "spring-boot": "Spring-Boot",
@@ -531,9 +725,14 @@
       "metrics": "AWS Metrics",
       "cloudwatch": "AWS Cloudwatch",
       "kms": "AWS KMS",
+      "sns": "AWS SNS",
+      "sqs": "AWS SQS",
       "docker": "Docker",
       "pt": "Portuguese native",
-      "en": "English C1"
+      "en": "English C1",
+      "cucumber": "Cucumber",
+      "test-containers": "Test Containers",
+      "terraform": "Terraform"
     }
   }
 }
